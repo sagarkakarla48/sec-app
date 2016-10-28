@@ -1,0 +1,19 @@
+{
+  "name": "sec-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarkakarla48/sec-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarkakarla48/sec-app/issues"
+  },
+  "homepage": "https://github.com/sagarkakarla48/sec-app#readme"
+}
